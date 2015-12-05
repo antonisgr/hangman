@@ -1,0 +1,19 @@
+.show-inline{
+    display: inline-block;
+}
+
+#letters-tried.well, #score.well, #wrong-tries.well {
+    display: inline-block;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+
+output {
+    width: 100%;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+    padding: 30px;
+}
